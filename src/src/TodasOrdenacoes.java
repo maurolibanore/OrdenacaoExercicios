@@ -1,4 +1,4 @@
-public class ExercicioUm {
+public class TodasOrdenacoes {
 
     public static void bubbleSort() {
         int[] vetor = {3, 4, 9, 2, 5, 8, 2, 1, 7};
